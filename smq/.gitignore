@@ -1,0 +1,9 @@
+build
+dist
+__pycache__
+logs
+test.xlsx
+demo2/__pycache__
+demo2/test.xlsx
+*.spec
+config.json

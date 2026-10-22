@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">fq</string>
+    <string name="accessibility_service_description">用于读取屏幕文字并搜索数据</string>
+</resources>

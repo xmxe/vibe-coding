@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="Theme.fq" parent="Theme.AppCompat.Light.NoActionBar" >
+        <!-- 明确设置窗口背景为白色 -->
+        <item name="android:windowBackground">@android:color/white</item>
+
+        <!-- 可选：确保文字颜色是深色，便于阅读 -->
+        <item name="android:textColor">@android:color/black</item>
+
+        <!-- 避免透明 -->
+        <item name="android:windowIsTranslucent">false</item>
+        <item name="android:windowNoTitle">false</item>
+    </style>
+</resources>
